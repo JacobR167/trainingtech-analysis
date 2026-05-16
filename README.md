@@ -12,5 +12,9 @@ Process raw COROS/Garmin .fit files in Python to quantify training load and visu
 Python . pandas . matplotlib . fitdecode
 
 ## Why I built this
-This is my first data science coding project. 
+This is my project on my journey to learning data science!
 Most training platforms only show cardiovascular load. This is the foundation of a mechanical load estimator for endurance and hybrid athletes.
+
+## Getting started
+Add your .fit files to the 'sessions' folder.
+Don't worry, the folder is gitignored, so your session data stays private.
