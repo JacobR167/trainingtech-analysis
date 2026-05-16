@@ -1,0 +1,4 @@
+sessions/*.fit
+__pycache__/
+*.pyc
+.env
