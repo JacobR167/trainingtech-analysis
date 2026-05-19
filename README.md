@@ -7,6 +7,7 @@ Process raw COROS/Garmin .fit files in Python to quantify training load and visu
 - Calculates session load using TRIMP and sRPE methods
 - Plots heart rate with HR zone shading
 - Tracks 7-day and 28-day rolling load averages
+- Allows you to visualise your acute to chronic training load ratio
 
 ## Stack
 Python . pandas . matplotlib . fitdecode
